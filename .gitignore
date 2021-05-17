@@ -37,3 +37,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+data/source/Maryland_Statewide_Vehicle_Crashes_-_Vehicle_Details.csv
+data/source/Maryland_Statewide_Vehicle_Crashes.csv
+data/source/Maryland_Statewide_Vehicle_Crashes_-_Person_Details__Anonymized_.csv
